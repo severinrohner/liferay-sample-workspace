@@ -1,0 +1,5 @@
+Bundle-Name: router-web
+Bundle-SymbolicName: net.rohner.sample.router
+Bundle-Version: 1.0.0
+Export-Package: net.rohner.sample.router.constants
+Web-ContextPath: /router-web
